@@ -3331,5 +3331,12 @@
     "description": "Lists CAS project and experience ideas across the three strands (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "CAS"
+  },
+  {
+    "name": "AP Review Hub",
+    "url": "https://www.apreviewhub.com/",
+    "description": "Free flashcards, cheat sheets, and FRQ practice for every AP subject (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
   }
 ]
