@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-478-blue)
+![Resources](https://img.shields.io/badge/resources-479-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 98 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 284 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 285 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 9 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -620,6 +620,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[Aimnova](https://www.aimnova.app/ib-ess/notes)** - Free IB ESS notes, flashcards, and practice questions with no sign-up (free).
 - **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across environmental systems and ecology (free).
 - **[Knowt](https://knowt.com)** - Free student-written study guides and flashcards for IB ESS (freemium).
 - **[MinuteEarth](https://www.youtube.com/@MinuteEarth)** - Short, animated explainers on environmental science mysteries (free).
