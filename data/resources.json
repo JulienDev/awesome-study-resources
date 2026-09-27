@@ -3303,5 +3303,12 @@
     "description": "Notes, flashcards, and a question bank for IB Theory of Knowledge (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "High School Test Prep",
+    "url": "https://highschooltestprep.com/psat/",
+    "description": "Free PSAT practice tests with detailed answer explanations by section (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
   }
 ]
