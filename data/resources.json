@@ -3373,5 +3373,12 @@
     "description": "Free online textbook covering the IB Global Politics syllabus by topic (free).",
     "section": "By Subject",
     "subsection": "Global Politics"
+  },
+  {
+    "name": "World101",
+    "url": "https://world101.cfr.org",
+    "description": "Free CFR modules explaining international relations and global issues (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
   }
 ]
