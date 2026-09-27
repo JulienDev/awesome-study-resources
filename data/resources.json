@@ -3359,5 +3359,12 @@
     "description": "Free geography lessons and case studies from Year 7 through A-Level (freemium).",
     "section": "By Subject",
     "subsection": "Geography"
+  },
+  {
+    "name": "Advocating Classics Education",
+    "url": "https://aceclassics.org.uk",
+    "description": "University-backed project sharing GCSE and A-Level Classical Civilisation teaching resources (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
   }
 ]
