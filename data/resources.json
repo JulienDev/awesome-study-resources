@@ -3352,5 +3352,12 @@
     "description": "Free IB ESS notes, flashcards, and practice questions with no sign-up (free).",
     "section": "By Subject",
     "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "Cool Geography",
+    "url": "https://www.coolgeography.co.uk",
+    "description": "Free geography lessons and case studies from Year 7 through A-Level (freemium).",
+    "section": "By Subject",
+    "subsection": "Geography"
   }
 ]
