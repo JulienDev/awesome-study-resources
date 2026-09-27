@@ -3296,5 +3296,12 @@
     "description": "Convert ACT practice-test answers into scores and percentiles (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "ACT"
+  },
+  {
+    "name": "RevisionDojo",
+    "url": "https://www.revisiondojo.com/ib/ib-theory-of-knowledge-tok",
+    "description": "Notes, flashcards, and a question bank for IB Theory of Knowledge (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
   }
 ]
