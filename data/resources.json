@@ -3380,5 +3380,12 @@
     "description": "Free CFR modules explaining international relations and global issues (free).",
     "section": "By Subject",
     "subsection": "Global Perspectives"
+  },
+  {
+    "name": "Database of Religious History",
+    "url": "https://religiondatabase.org/landing/",
+    "description": "Free, scholarly encyclopedia of religious traditions across history (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
   }
 ]
