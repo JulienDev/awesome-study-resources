@@ -3387,5 +3387,12 @@
     "description": "Free, scholarly encyclopedia of religious traditions across history (free).",
     "section": "By Subject",
     "subsection": "World Religions"
+  },
+  {
+    "name": "The Panpsycast",
+    "url": "https://www.thepanpsycast.com",
+    "description": "Free podcast interviewing philosophers on ideas across the A-Level and IB syllabus (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
   }
 ]
