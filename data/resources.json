@@ -3338,5 +3338,12 @@
     "description": "Free flashcards, cheat sheets, and FRQ practice for every AP subject (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "AP"
+  },
+  {
+    "name": "TeachPE.com",
+    "url": "https://www.teachpe.com",
+    "description": "Free notes and quizzes on anatomy, physiology, and training methods for sport science (free).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
   }
 ]
