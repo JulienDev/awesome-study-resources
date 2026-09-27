@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-485-blue)
+![Resources](https://img.shields.io/badge/resources-486-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 98 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 291 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 292 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 9 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -705,6 +705,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory psychology video series (free).
 - **[Fiveable](https://fiveable.me)** - Free AP Psychology study guides, practice questions, and exam-day reviews (freemium).
+- **[Noba Project](https://nobaproject.com/)** - Free psychology modules and customizable introductory textbooks (free).
 - **[OpenStax Psychology 2e](https://openstax.org/details/books/psychology-2e)** - Free, peer-reviewed psychology textbook covering the full introductory curriculum (free).
 - **[Save My Exams](https://www.savemyexams.com/a-level/psychology/)** - Revision notes, exam questions, and past papers for A-Level Psychology (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive psychology revision (freemium).

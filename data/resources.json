@@ -3288,8 +3288,7 @@
     "description": "Reviews IA, EE, and TOK drafts criterion by criterion (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IB (IBDP)"
-  }
-,
+  },
   {
     "name": "ACT Score Calculator",
     "url": "https://actscorecalculators.com/",
@@ -3394,5 +3393,12 @@
     "description": "Free podcast interviewing philosophers on ideas across the A-Level and IB syllabus (free).",
     "section": "By Subject",
     "subsection": "Philosophy"
+  },
+  {
+    "name": "Noba Project",
+    "url": "https://nobaproject.com/",
+    "description": "Free psychology modules and customizable introductory textbooks (free).",
+    "section": "By Subject",
+    "subsection": "Psychology"
   }
 ]
