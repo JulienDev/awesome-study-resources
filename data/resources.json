@@ -3324,5 +3324,12 @@
     "description": "Free tool that turns a vague EE idea into a focused research question (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "Extended Essay"
+  },
+  {
+    "name": "Save My Exams",
+    "url": "https://www.savemyexams.com/learning-hub/useful-resources/ib-cas-ideas/",
+    "description": "Lists CAS project and experience ideas across the three strands (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
   }
 ]
