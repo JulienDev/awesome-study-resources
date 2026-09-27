@@ -3310,5 +3310,12 @@
     "description": "Free PSAT practice tests with detailed answer explanations by section (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "PSAT"
+  },
+  {
+    "name": "Physics & Maths Tutor",
+    "url": "https://www.physicsandmathstutor.com",
+    "description": "Free past papers, mark schemes, and revision notes across GCSE subjects (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
   }
 ]
