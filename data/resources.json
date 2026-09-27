@@ -3366,5 +3366,12 @@
     "description": "University-backed project sharing GCSE and A-Level Classical Civilisation teaching resources (free).",
     "section": "By Subject",
     "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "GloPoPolis",
+    "url": "https://www.glopopolis.org",
+    "description": "Free online textbook covering the IB Global Politics syllabus by topic (free).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
   }
 ]
