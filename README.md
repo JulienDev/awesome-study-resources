@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-500-blue)
+![Resources](https://img.shields.io/badge/resources-501-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -43,7 +43,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 9 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 16 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
-| <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 8 |
+| <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 9 |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
@@ -1069,6 +1069,7 @@ Subject textbooks students and teachers keep coming back to.
 - **[Campbell, Biology](https://www.pearson.com/en-us/subject-catalog/p/campbells-biology/P200000014184/9780135455890)** - The standard university-level biology textbook (paid).
 - **[Clayden, Organic Chemistry](https://global.oup.com/academic/product/organic-chemistry-9780198728719)** - Widely used undergraduate organic chemistry text (paid).
 - **[CLRS, Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)** - The definitive algorithms reference (paid).
+- **[Griffiths, Introduction to Electrodynamics](https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/FD23E188E2BDCDB40199CFE3386EC08F)** - Standard undergraduate textbook on electricity and magnetism (paid).
 - **[Haese Mathematics](https://www.haesemathematics.com)** - Standard IB Diploma mathematics textbooks (formerly Haese & Harris) (paid).
 - **[Halliday, Resnick & Walker, Fundamentals of Physics](https://www.wiley.com/en-us/Fundamentals+of+Physics,+12th+Edition-p-9781119801122)** - Widely used introductory university physics text (paid).
 - **[OpenStax](https://openstax.org)** - Free, peer-reviewed textbooks across math and science (free).
