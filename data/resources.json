@@ -2730,6 +2730,13 @@
     "subsection": "Coding Practice"
   },
   {
+    "name": "AtCoder",
+    "url": "https://atcoder.jp/",
+    "description": "Japanese competitive programming platform with regular timed contests (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
+  },
+  {
     "name": "Codeforces",
     "url": "https://codeforces.com",
     "description": "Free competitive programming judge with regular timed contests (free).",

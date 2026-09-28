@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-498-blue)
+![Resources](https://img.shields.io/badge/resources-499-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -41,7 +41,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 8 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 9 |
-| <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 15 |
+| <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 16 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 8 |
 
@@ -1017,6 +1017,7 @@ Go from first line to shipped project.
 <summary>Show resources</summary>
 
 - **[Advent of Code](https://adventofcode.com)** - Free annual puzzle set, one bite-sized challenge per day each December (free).
+- **[AtCoder](https://atcoder.jp/)** - Japanese competitive programming platform with regular timed contests (free).
 - **[Codeforces](https://codeforces.com)** - Free competitive programming judge with regular timed contests (free).
 - **[Codewars](https://www.codewars.com)** - Free, community-built code katas across 55+ languages (free).
 - **[Exercism](https://exercism.org)** - Free coding exercises with real mentor feedback across 80+ languages (free).
