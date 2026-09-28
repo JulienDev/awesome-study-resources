@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-489-blue)
+![Resources](https://img.shields.io/badge/resources-490-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 98 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 295 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 296 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 9 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -658,6 +658,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[Academy of Nutrition and Dietetics](https://www.eatright.org/)** - Nutrition guidance and healthy-eating articles from registered dietitians (free).
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zdn9jhv)** - Covers GCSE food preparation and nutrition topics with revision guides and quizzes (free).
 - **[Food – A Fact of Life](https://www.foodafactoflife.org.uk)** - Teaches nutrition, cooking skills, and food science for GCSE level (free).
 - **[NHS Eatwell Guide](https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/)** - Official NHS guide to balanced diets and food groups (free).
