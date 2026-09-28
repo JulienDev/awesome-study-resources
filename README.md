@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-501-blue)
+![Resources](https://img.shields.io/badge/resources-502-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -35,7 +35,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 98 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 304 |
-| <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 9 |
+| <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
@@ -870,6 +870,7 @@ Capture, link, and organize what you learn.
 <details open>
 <summary>Show resources</summary>
 
+- **[Joplin](https://joplinapp.org/)** - Free, open-source markdown notes with sync and encryption (free, open source).
 - **[Logseq](https://logseq.com)** - Free, open-source outliner for networked notes (free).
 - **[LYT Kit](https://www.linkingyourthinking.com/myideaverse/enter)** - Free starter Obsidian vault for organizing notes and classes (free).
 - **[Microsoft OneNote](https://onenote.cloud.microsoft)** - Organize notes, sketches, and clippings in free-form notebooks (free).

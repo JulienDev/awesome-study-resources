@@ -2345,6 +2345,13 @@
     "subsection": "Dance"
   },
   {
+    "name": "Joplin",
+    "url": "https://joplinapp.org/",
+    "description": "Free, open-source markdown notes with sync and encryption (free, open source).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
     "name": "Logseq",
     "url": "https://logseq.com",
     "description": "Free, open-source outliner for networked notes (free).",
