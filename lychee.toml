@@ -26,3 +26,14 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # http://, not a bug to "fix" into https://. Manually verified with curl: the https:// host
 # fails the TLS handshake outright (curl error, no response at all), while http:// returns a
 # clean 200. Leave it on http:// unless the server starts serving valid TLS.
+
+# cambridgeincolour.com (By Subject > Photography) intermittently times out for lychee (#292
+# and prior runs). Manually verified: the TCP connection to port 443 succeeds instantly (and
+# plain http:// also responds, with a 301 to https://), but the TLS handshake itself hangs
+# and times out for automated clients (curl, Python's ssl module, this workflow's fetcher)
+# regardless of certificate verification, while the site is still indexed and served normally
+# to real browsers/search bots. That's consistent with TLS-fingerprint-based bot blocking, not
+# a dead site, so it's excluded here instead of removed from README.md.
+exclude = [
+  "https://www.cambridgeincolour.com/",
+]

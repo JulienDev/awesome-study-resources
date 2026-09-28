@@ -93,6 +93,13 @@ v1.0.0 tag itself.
 - Two stale doc references to the dead-link-check workflow's file list
   corrected to match what it actually scans (#45), and a CODEOWNERS comment
   corrected to match its actual (single-rule) content (#50).
+- `lychee.toml` now excludes [Cambridge in
+  Colour](https://www.cambridgeincolour.com/) (By Subject / Photography) from
+  the dead-link check (#292): the TCP connection succeeds instantly but the
+  TLS handshake itself hangs for automated clients regardless of certificate
+  verification, while the site is still indexed and served normally to real
+  browsers, consistent with TLS-fingerprint bot blocking rather than a dead
+  site.
 
 ### Removed
 
