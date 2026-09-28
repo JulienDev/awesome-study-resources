@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-499-blue)
+![Resources](https://img.shields.io/badge/resources-500-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -39,7 +39,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
-| <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 8 |
+| <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 9 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 9 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 16 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
@@ -964,6 +964,7 @@ Know what's allowed, and how to cite AI-assisted work, before you submit.
 - **[IB AI Guidance](https://ibo.org/programmes/artificial-intelligence-ai-in-learning-teaching-and-assessment/)** - The IB's official position on using AI in coursework (free).
 - **[International Center for Academic Integrity](https://www.academicintegrity.org)** - Nonprofit resources on what integrity and misconduct mean (free).
 - **[MLA Style Center: Citing Generative AI](https://style.mla.org/citing-generative-ai-updated-revised/)** - Official MLA guidance on citing generative AI (free).
+- **[Purdue Libraries: Citing AI-Generated Content](https://guides.lib.purdue.edu/c.php?g=1371380&p=10135074)** - Compares how to cite AI tools across APA, MLA, Chicago, and IEEE (free).
 - **[Scribbr AI Detector](https://www.scribbr.com/ai-detector/)** - Checks writing for AI-generated text, free up to 1,200 words (freemium).
 
 </details>
