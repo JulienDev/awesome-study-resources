@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-515-blue)
+![Resources](https://img.shields.io/badge/resources-516-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 104 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 105 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 311 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
@@ -131,6 +131,7 @@ Official and community prep for the big exams and curricula.
 - **[Save My Exams](https://www.savemyexams.com/learning-hub/useful-resources/ib-cas-ideas/)** - Lists CAS project and experience ideas across the three strands (freemium).
 - **[Structural Learning](https://www.structural-learning.com/post/ib-cas-ideas-and-examples)** - Offers 30 CAS project ideas by strand plus a free planner (freemium).
 - **[TutorChase](https://www.tutorchase.com/blog/ib-cas-creativity-activity-service-a-complete-guide)** - Free end-to-end guide to planning and documenting CAS (free).
+- **[TutorsPlus](https://tutorsplus.com/the-ultimate-guide-to-ib-cas-requirements-expectations-and-tips-for-success/)** - Free guide to CAS requirements, learning outcomes, and project tips (free).
 
 </details>
 
