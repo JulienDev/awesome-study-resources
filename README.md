@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-516-blue)
+![Resources](https://img.shields.io/badge/resources-517-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 105 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 106 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 311 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
@@ -113,6 +113,7 @@ Official and community prep for the big exams and curricula.
 - **[CodeHS](https://codehs.com)** - College Board-endorsed AP CSA and CSP curriculum, usually licensed through schools (paid).
 - **[CodingBat](https://codingbat.com/java)** - Free Java practice problems, including a set based on past AP CSA free-response questions (free).
 - **[CSAwesome](https://runestone.academy/ns/books/published/csawesome/index.html)** - Free, open Java textbook and practice for the AP CSA exam (free).
+- **[Fiveable AP Computer Science](https://fiveable.me/ap-comp-sci-a)** - Free study guides, practice questions, and FRQ prep for AP CSA (freemium).
 - **[Khan Academy AP Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)** - Free lessons and practice for the AP CSP exam (free).
 - **[Knowt](https://knowt.com/exams/AP/AP-Computer-Science-A)** - Free student-written study guides, flashcards, and FRQ practice for AP CSA (freemium).
 

@@ -3610,5 +3610,12 @@
     "description": "Free guide to CAS requirements, learning outcomes, and project tips (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "CAS"
+  },
+  {
+    "name": "Fiveable AP Computer Science",
+    "url": "https://fiveable.me/ap-comp-sci-a",
+    "description": "Free study guides, practice questions, and FRQ prep for AP CSA (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
   }
 ]
