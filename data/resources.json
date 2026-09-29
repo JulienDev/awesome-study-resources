@@ -3568,5 +3568,12 @@
     "description": "Free guide to TOK's exhibition, essay, and areas of knowledge (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "College Board SAT Suite",
+    "url": "https://satsuite.collegeboard.org/sat",
+    "description": "The official overview, dates, registration, and score info for the SAT (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
   }
 ]
