@@ -3617,5 +3617,12 @@
     "description": "Free study guides, practice questions, and FRQ prep for AP CSA (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "AP Computer Science"
+  },
+  {
+    "name": "Free AP Practice",
+    "url": "https://freeappractice.org/",
+    "description": "Free, unlimited AP practice questions with instant feedback across 20+ subjects (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
   }
 ]
