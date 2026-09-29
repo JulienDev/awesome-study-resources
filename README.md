@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-513-blue)
+![Resources](https://img.shields.io/badge/resources-514-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 102 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 103 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 311 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
@@ -156,6 +156,7 @@ Official and community prep for the big exams and curricula.
 <summary>Show resources</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core GCSE subject (free).
+- **[Cognito](https://cognito.org/)** - Free video lessons, notes, and past papers for GCSE maths and science (free).
 - **[Mr Bruff](https://www.youtube.com/@mrbruff)** - Free video walkthroughs for GCSE English Language and Literature (free).
 - **[Oak National Academy](https://www.thenational.academy)** - Free, government-backed GCSE lessons and revision across every exam board (free).
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and revision notes across GCSE subjects (free).

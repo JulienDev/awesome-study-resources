@@ -3589,5 +3589,12 @@
     "description": "Free Cambridge IGCSE past papers, topical questions, and revision notes (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IGCSE"
+  },
+  {
+    "name": "Cognito",
+    "url": "https://cognito.org/",
+    "description": "Free video lessons, notes, and past papers for GCSE maths and science (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
   }
 ]
