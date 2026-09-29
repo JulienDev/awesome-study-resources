@@ -3561,5 +3561,12 @@
     "description": "Free, open statistics textbooks and reference material (free).",
     "section": "By Subject",
     "subsection": "Statistics"
+  },
+  {
+    "name": "Lanterna Education",
+    "url": "https://lanterna.com/resources/master-ib-tok-guide",
+    "description": "Free guide to TOK's exhibition, essay, and areas of knowledge (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Theory of Knowledge"
   }
 ]
