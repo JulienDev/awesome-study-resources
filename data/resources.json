@@ -3554,5 +3554,12 @@
     "description": "Free Cambridge-built modules and worked solutions for advanced problem-solving beyond Further Maths (free).",
     "section": "By Subject",
     "subsection": "Further Mathematics"
+  },
+  {
+    "name": "Statistics LibreTexts",
+    "url": "https://stats.libretexts.org",
+    "description": "Free, open statistics textbooks and reference material (free).",
+    "section": "By Subject",
+    "subsection": "Statistics"
   }
 ]
