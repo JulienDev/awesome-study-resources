@@ -3512,5 +3512,12 @@
     "description": "Free psychology modules and customizable introductory textbooks (free).",
     "section": "By Subject",
     "subsection": "Psychology"
+  },
+  {
+    "name": "Lanterna Education",
+    "url": "https://lanterna.com/resources/ib-design-tech-ia",
+    "description": "Free guide to the IB Design Technology internal assessment's design cycle (free).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
   }
 ]
