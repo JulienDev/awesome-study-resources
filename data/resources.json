@@ -3533,5 +3533,12 @@
     "description": "Free interactive lessons and virtual labs on genetics and molecular biology (free).",
     "section": "By Subject",
     "subsection": "Biology"
+  },
+  {
+    "name": "Compound Interest",
+    "url": "https://www.compoundchem.com",
+    "description": "Free downloadable infographics explaining everyday and exam chemistry concepts (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
   }
 ]
