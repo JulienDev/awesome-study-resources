@@ -3519,5 +3519,12 @@
     "description": "Free guide to the IB Design Technology internal assessment's design cycle (free).",
     "section": "By Subject",
     "subsection": "Design Technology"
+  },
+  {
+    "name": "Khan Academy Computer Science",
+    "url": "https://www.khanacademy.org/computing",
+    "description": "Free lessons and practice across intro programming, SQL, and computer science (free).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
   }
 ]
