@@ -3624,5 +3624,12 @@
     "description": "Free, unlimited AP practice questions with instant feedback across 20+ subjects (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "AP"
+  },
+  {
+    "name": "Union Test Prep",
+    "url": "https://uniontestprep.com/act",
+    "description": "Free ACT practice tests, study guides, and flashcards (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
   }
 ]
