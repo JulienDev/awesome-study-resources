@@ -3582,5 +3582,12 @@
     "description": "Free PSAT/NMSQT practice tests, study guides, and flashcards (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "PSAT"
+  },
+  {
+    "name": "Past Papers Academy",
+    "url": "https://pastpapersacademy.com/",
+    "description": "Free Cambridge IGCSE past papers, topical questions, and revision notes (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
   }
 ]
