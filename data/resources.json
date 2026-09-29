@@ -3547,5 +3547,12 @@
     "description": "Free lessons and practice across the physics syllabus (free).",
     "section": "By Subject",
     "subsection": "Physics"
+  },
+  {
+    "name": "STEP Support Programme",
+    "url": "https://step.maths.org/",
+    "description": "Free Cambridge-built modules and worked solutions for advanced problem-solving beyond Further Maths (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
   }
 ]
