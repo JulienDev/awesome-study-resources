@@ -3540,5 +3540,12 @@
     "description": "Free downloadable infographics explaining everyday and exam chemistry concepts (free).",
     "section": "By Subject",
     "subsection": "Chemistry"
+  },
+  {
+    "name": "Khan Academy Physics",
+    "url": "https://www.khanacademy.org/science/physics",
+    "description": "Free lessons and practice across the physics syllabus (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
   }
 ]

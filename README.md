@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-506-blue)
+![Resources](https://img.shields.io/badge/resources-507-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 98 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 308 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 309 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 10 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -310,6 +310,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Flipping Physics](https://www.flippingphysics.com)** - Free video lessons aligned to AP and intro physics (free).
 - **[HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)** - Free concept map linking every core physics topic (free).
 - **[Isaac Physics](https://isaacscience.org)** - Free, problem-based physics learning platform built by the University of Cambridge (free).
+- **[Khan Academy Physics](https://www.khanacademy.org/science/physics)** - Free lessons and practice across the physics syllabus (free).
 - **[MinutePhysics](https://www.youtube.com/@minutephysics)** - Short animated videos explaining physics concepts clearly and concisely (free).
 - **[PhET Simulations](https://phet.colorado.edu)** - Free interactive sims for physics, chemistry, and math (free).
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com/physics-revision/)** - Free revision notes, topic questions, and past papers by exam board (free).
