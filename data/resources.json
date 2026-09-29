@@ -3575,5 +3575,12 @@
     "description": "The official overview, dates, registration, and score info for the SAT (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "SAT"
+  },
+  {
+    "name": "Union Test Prep",
+    "url": "https://uniontestprep.com/psat-nmsqt-exam",
+    "description": "Free PSAT/NMSQT practice tests, study guides, and flashcards (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
   }
 ]
