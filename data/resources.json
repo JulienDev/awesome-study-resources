@@ -3526,5 +3526,12 @@
     "description": "Free lessons and practice across intro programming, SQL, and computer science (free).",
     "section": "By Subject",
     "subsection": "Computer Science"
+  },
+  {
+    "name": "Learn.Genetics",
+    "url": "https://learn.genetics.utah.edu/",
+    "description": "Free interactive lessons and virtual labs on genetics and molecular biology (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
   }
 ]
