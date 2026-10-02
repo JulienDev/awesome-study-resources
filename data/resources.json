@@ -1267,6 +1267,13 @@
     "subsection": "Foreign Languages"
   },
   {
+    "name": "Forvo",
+    "url": "https://forvo.com/",
+    "description": "Pronunciation dictionary with native-speaker audio across many languages (freemium).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
     "name": "HelloTalk",
     "url": "https://www.hellotalk.com/",
     "description": "Practice real conversations by chatting with native speakers worldwide (freemium).",
