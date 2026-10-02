@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-522-blue)
+![Resources](https://img.shields.io/badge/resources-523-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 108 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 313 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 314 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 11 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -438,6 +438,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[AccountingCoach](https://www.accountingcoach.com)** - Free explanations, quizzes, and flashcards across core accounting topics (freemium).
 - **[AccountingVerse](https://www.accountingverse.com)** - Free tutorials covering bookkeeping, financial statements, and accounting theory (free).
+- **[Bean Counter](https://www.dwmbeancounter.com/)** - Free bookkeeping and accounting courses, tutorials, and videos for beginners (free).
 - **[Corporate Finance Institute](https://courses.corporatefinanceinstitute.com/bundles/free-finance-accounting-courses/)** - Free accounting and finance fundamentals courses, certificates cost extra (freemium).
 - **[Double Entry Bookkeeping](https://www.double-entry-bookkeeping.com/)** - Free tutorials, examples, and quizzes on bookkeeping and accounting basics (free).
 - **[IGCSE Accounts](https://www.igcseaccounts.com)** - Free Cambridge IGCSE Accounting past paper questions, mark schemes, and revision notes (free).
