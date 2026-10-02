@@ -90,6 +90,8 @@ The generator sorts every list alphabetically (case-insensitive) by entry name, 
 
 If your PR removes an entry (dead link, discontinued service, no longer meets the Quality Standards), delete its record from `data/resources.json`, regenerate README.md, and add a one-line note under CHANGELOG.md's `Unreleased > Removed` section saying what was removed and why.
 
+If your PR only *adds* one or a few entries (the common case), don't touch CHANGELOG.md yourself. A maintainer batches recent additions into a single `Unreleased > Added` line every so often, roughly every 15-20 merged additions or whenever a round of content issues closes together, the way the existing `### Added` entries above already do (e.g. "One vetted entry to each of 15 thin `By Subject` subsections, closing #184, ..."). This keeps a single logical change from being split across two PRs. Reserve a CHANGELOG edit in your own PR for what an entry-level bullet can't cover later: a new section or subsection, or a removal (see above).
+
 ---
 
 ## Versioning
