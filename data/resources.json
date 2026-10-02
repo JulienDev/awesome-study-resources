@@ -1344,6 +1344,13 @@
     "subsection": "Latin"
   },
   {
+    "name": "Logeion",
+    "url": "https://logeion.uchicago.edu/",
+    "description": "Free Greek and Latin dictionary combining multiple scholarly lexicons (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
     "name": "Perseus Digital Library",
     "url": "https://www.perseus.tufts.edu/hopper/",
     "description": "Free, searchable library of Latin and Greek texts with translations and word studies (free).",

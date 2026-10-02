@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-526-blue)
+![Resources](https://img.shields.io/badge/resources-527-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 108 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 317 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 318 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 11 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -509,6 +509,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Latin is Simple](https://www.latin-is-simple.com/)** - Free Latin dictionary, vocabulary trainer, and sentence analysis tool (free).
 - **[Latinitium](https://latinitium.com)** - Free spoken Latin audio, readers, and grammar guides for learning Latin actively (freemium).
 - **[LatinTutorial](https://www.latintutorial.com)** - Free video lessons covering Latin grammar, vocabulary, and translation (free).
+- **[Logeion](https://logeion.uchicago.edu/)** - Free Greek and Latin dictionary combining multiple scholarly lexicons (free).
 - **[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)** - Free, searchable library of Latin and Greek texts with translations and word studies (free).
 - **[Textkit](https://www.textkit.com/)** - Free downloadable Latin and Greek grammars, readers, and an active learners' forum (free).
 - **[The Latin Library](https://www.thelatinlibrary.com)** - Free archive of Latin texts and grammar reference handouts (free).
