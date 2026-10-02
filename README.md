@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-534-blue)
+![Resources](https://img.shields.io/badge/resources-535-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 108 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 325 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 326 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 11 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -647,6 +647,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[legislation.gov.uk](https://www.legislation.gov.uk)** - The official, free database of UK legislation (free).
 - **[Revision World](https://revisionworld.com/a2-level-level-revision/law-level-revision)** - Free A-Level Law revision guides, notes, and past papers (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for A-Level Law (freemium).
+- **[The Supreme Court](https://www.supremecourt.uk/)** - Official free judgments, case summaries, and education resources from the UK's top court (free).
 - **[tutor2u](https://www.tutor2u.net/free/law)** - Free revision notes and teaching resources for A-Level Law (freemium).
 
 </details>
