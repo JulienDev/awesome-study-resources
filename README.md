@@ -615,10 +615,10 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Cool Geography](https://www.coolgeography.co.uk)** - Free geography lessons and case studies from Year 7 through A-Level (freemium).
 - **[Flag Drill](https://flagdrill.com/)** - Practice flag quizzes for 193 UN members and similar flags (free).
 - **[Geography All The Way](https://www.geographyalltheway.com/)** - IB DP Geography case studies, exam prep, and geographic skills (freemium).
-- **[Internet Geography](https://www.internetgeography.net)** - Free notes and case studies for GCSE geography (free).
+- **[Internet Geography](https://www.internetgeography.net)** - Free notes and case studies for GCSE geography (freemium).
 - **[National Geographic Education](https://www.nationalgeographic.org/education/)** - Free geography lesson plans, maps, and interactive classroom resources (free).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive geography revision (freemium).
-- **[The Geography Hub](https://learngeographyonline.com)** - Free GCSE geography case studies, quizzes, and exam-style practice (free).
+- **[The Geography Hub](https://learngeographyonline.com)** - Free GCSE geography past papers, explainer articles, and a glossary (free).
 
 </details>
 
