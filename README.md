@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-523-blue)
+![Resources](https://img.shields.io/badge/resources-524-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 108 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 314 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 315 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 11 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -459,6 +459,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Economics Help](https://www.economicshelp.org)** - Explains business and economics concepts through revision notes and guides (free).
 - **[IGCSE Business](https://www.igcsebusiness.co.uk)** - Free Cambridge IGCSE Business notes and past papers by topic (free).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive business revision (freemium).
+- **[Sense Business](https://sensebusiness.co.uk/)** - Free GCSE business studies revision notes and topic quizzes (free).
 - **[TakingTheBiz](https://www.youtube.com/TakingTheBiz)** - Video revision lessons for GCSE, A-Level, and IB Business (free).
 - **[tutor2u](https://www.tutor2u.net/business)** - Notes, revision, and exam support for Business Studies (freemium).
 
