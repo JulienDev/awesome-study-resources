@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-549-blue)
+![Resources](https://img.shields.io/badge/resources-550-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -41,7 +41,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 9 |
 | <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 9 |
-| <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 16 |
+| <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 17 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 9 |
 
@@ -1055,6 +1055,7 @@ Go from first line to shipped project.
 - **[freeCodeCamp](https://www.freecodecamp.org)** - Free, open-source coding curriculum with certifications (free).
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students (free).
 - **[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)** - Free, definitive reference and tutorials for HTML, CSS, and JavaScript (free).
+- **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)** - Learn shell, Git, and debugging through MIT lecture notes and videos (free).
 - **[The Odin Project](https://www.theodinproject.com)** - Free project-based path into web development (free).
 - **[Visual Studio Code](https://code.visualstudio.com)** - Free, extensible code editor from Microsoft (free).
 
