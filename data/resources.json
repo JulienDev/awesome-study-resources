@@ -3862,5 +3862,12 @@
     "description": "Study alongside a partner in live virtual coworking sessions (freemium).",
     "section": "Task, Time & Planning",
     "subsection": null
+  },
+  {
+    "name": "UNESCO: AI in Education",
+    "url": "https://www.unesco.org/en/digital-education/artificial-intelligence",
+    "description": "Read international guidance on generative AI use in education (free).",
+    "section": "AI & Academic Integrity",
+    "subsection": null
   }
 ]
