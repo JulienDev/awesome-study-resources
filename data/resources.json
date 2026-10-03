@@ -3806,5 +3806,12 @@
     "description": "Read scholarly film reviews, history milestones, and greatest-films lists (free).",
     "section": "By Subject",
     "subsection": "Film"
+  },
+  {
+    "name": "PetaPixel",
+    "url": "https://petapixel.com/",
+    "description": "Follow photography news, tutorials, and gear reviews (free, ad-free membership).",
+    "section": "By Subject",
+    "subsection": "Photography"
   }
 ]
