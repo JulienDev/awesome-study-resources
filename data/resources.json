@@ -3848,5 +3848,12 @@
     "description": "Learn shell, Git, and debugging through MIT lecture notes and videos (free).",
     "section": "Building Software / Learn to Code",
     "subsection": "Learn to Code"
+  },
+  {
+    "name": "CodinGame",
+    "url": "https://www.codingame.com/",
+    "description": "Practice programming through puzzles and games in 25+ languages (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
   }
 ]
