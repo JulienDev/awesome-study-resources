@@ -3764,5 +3764,12 @@
     "description": "Learn sports techniques from videos sorted by skill level (free).",
     "section": "By Subject",
     "subsection": "Physical Education"
+  },
+  {
+    "name": "The King's Fund",
+    "url": "https://www.kingsfund.org.uk/",
+    "description": "Read independent analysis of health and social care policy in England (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
   }
 ]
