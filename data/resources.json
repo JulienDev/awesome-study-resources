@@ -3876,5 +3876,12 @@
     "description": "Draw flowcharts and diagrams from text, open source (free).",
     "section": "Diagramming & STEM Tools",
     "subsection": null
+  },
+  {
+    "name": "Strang, Introduction to Linear Algebra",
+    "url": "https://math.mit.edu/~gs/linearalgebra/",
+    "description": "Learn linear algebra from MIT's Gilbert Strang (paid, with free course materials).",
+    "section": "Great Textbooks",
+    "subsection": null
   }
 ]
