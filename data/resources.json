@@ -3890,5 +3890,12 @@
     "description": "Practice PSAT questions with a free study plan (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "PSAT"
+  },
+  {
+    "name": "DoSomething",
+    "url": "https://www.dosomething.org/",
+    "description": "Find youth service actions to log as CAS service hours (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
   }
 ]
