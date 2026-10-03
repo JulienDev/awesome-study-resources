@@ -3785,5 +3785,12 @@
     "description": "Browse plain-language articles on mental health and behavior topics (free).",
     "section": "By Subject",
     "subsection": "Psychology"
+  },
+  {
+    "name": "LibreTexts Sociology",
+    "url": "https://socialsci.libretexts.org/Bookshelves/Sociology",
+    "description": "Read open sociology textbooks online or download them (free).",
+    "section": "By Subject",
+    "subsection": "Sociology"
   }
 ]

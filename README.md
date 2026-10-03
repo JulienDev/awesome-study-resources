@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-541-blue)
+![Resources](https://img.shields.io/badge/resources-542-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 108 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 332 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 333 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 11 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -761,6 +761,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory sociology video series (free).
 - **[Discover Sociology](https://www.discoversociology.co.uk/)** - Free A-Level sociology teaching resources from the British Sociological Association (free).
+- **[LibreTexts Sociology](https://socialsci.libretexts.org/Bookshelves/Sociology)** - Read open sociology textbooks online or download them (free).
 - **[OpenStax Introduction to Sociology](https://openstax.org/details/books/introduction-sociology-3e)** - Free, peer-reviewed introductory sociology textbook (free).
 - **[ReviseSociology](https://revisesociology.com/a-level-sociology/)** - Free A-Level Sociology revision notes, mind maps, and model answers (freemium).
 - **[Save My Exams](https://www.savemyexams.com/a-level/sociology/)** - Revision notes, exam questions, and past papers for A-Level Sociology (freemium).
