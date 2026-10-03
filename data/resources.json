@@ -3792,5 +3792,12 @@
     "description": "Read open sociology textbooks online or download them (free).",
     "section": "By Subject",
     "subsection": "Sociology"
+  },
+  {
+    "name": "Google Arts & Culture",
+    "url": "https://artsandculture.google.com/",
+    "description": "Explore artworks and virtual museum tours from partner institutions (free).",
+    "section": "By Subject",
+    "subsection": "Art"
   }
 ]
