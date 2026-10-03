@@ -3827,5 +3827,12 @@
     "description": "Learn beats, scales, and chords through interactive in-browser lessons (free).",
     "section": "By Subject",
     "subsection": "Music"
+  },
+  {
+    "name": "Folger Shakespeare Library",
+    "url": "https://www.folger.edu/",
+    "description": "Read Shakespeare's complete works and lesson plans (free).",
+    "section": "By Subject",
+    "subsection": "Theatre"
   }
 ]
