@@ -3820,5 +3820,12 @@
     "description": "Learn to evaluate misinformation and media bias through Checkology lessons (free).",
     "section": "By Subject",
     "subsection": "Media Studies"
+  },
+  {
+    "name": "Ableton Learning Music",
+    "url": "https://learningmusic.ableton.com/",
+    "description": "Learn beats, scales, and chords through interactive in-browser lessons (free).",
+    "section": "By Subject",
+    "subsection": "Music"
   }
 ]

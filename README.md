@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-546-blue)
+![Resources](https://img.shields.io/badge/resources-547-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 108 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 337 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 338 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 11 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -862,6 +862,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[8notes](https://www.8notes.com)** - Free sheet music across 25+ instruments (freemium).
+- **[Ableton Learning Music](https://learningmusic.ableton.com/)** - Learn beats, scales, and chords through interactive in-browser lessons (free).
 - **[GCSE Music](https://www.musicgcse.co.uk/)** - Free OCR GCSE Music revision notes, quizzes, and videos (free).
 - **[IMSLP](https://imslp.org)** - Download free public-domain sheet music for nearly any instrument (free).
 - **[MuseScore](https://musescore.org/en)** - Notate and play back compositions for coursework (free, open source).
