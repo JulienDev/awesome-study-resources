@@ -3855,5 +3855,12 @@
     "description": "Practice programming through puzzles and games in 25+ languages (free).",
     "section": "Building Software / Learn to Code",
     "subsection": "Coding Practice"
+  },
+  {
+    "name": "Focusmate",
+    "url": "https://www.focusmate.com/",
+    "description": "Study alongside a partner in live virtual coworking sessions (freemium).",
+    "section": "Task, Time & Planning",
+    "subsection": null
   }
 ]
