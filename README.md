@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-555-blue)
+![Resources](https://img.shields.io/badge/resources-556-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 108 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 109 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 340 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 11 |
@@ -220,6 +220,7 @@ Official and community prep for the big exams and curricula.
 - **[PrepScholar PSAT](https://www.prepscholar.com/psat-test-prep/)** - Free study guides, practice tests, and score strategies for the PSAT (free).
 - **[The Princeton Review PSAT](https://www.princetonreview.com/college/free-digitalpsat-practice-test)** - Free full-length Digital PSAT practice test with a score report (freemium).
 - **[Union Test Prep](https://uniontestprep.com/psat-nmsqt-exam)** - Free PSAT/NMSQT practice tests, study guides, and flashcards (free).
+- **[Varsity Tutors PSAT](https://www.varsitytutors.com/psat-practice-tests)** - Practice PSAT questions with a free study plan (freemium).
 
 </details>
 

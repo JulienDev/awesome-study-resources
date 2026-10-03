@@ -3883,5 +3883,12 @@
     "description": "Learn linear algebra from MIT's Gilbert Strang (paid, with free course materials).",
     "section": "Great Textbooks",
     "subsection": null
+  },
+  {
+    "name": "Varsity Tutors PSAT",
+    "url": "https://www.varsitytutors.com/psat-practice-tests",
+    "description": "Practice PSAT questions with a free study plan (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
   }
 ]
