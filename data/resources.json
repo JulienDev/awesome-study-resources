@@ -3799,5 +3799,12 @@
     "description": "Explore artworks and virtual museum tours from partner institutions (free).",
     "section": "By Subject",
     "subsection": "Art"
+  },
+  {
+    "name": "Filmsite",
+    "url": "https://www.filmsite.org/",
+    "description": "Read scholarly film reviews, history milestones, and greatest-films lists (free).",
+    "section": "By Subject",
+    "subsection": "Film"
   }
 ]

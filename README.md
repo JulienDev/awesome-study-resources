@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-543-blue)
+![Resources](https://img.shields.io/badge/resources-544-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 108 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 334 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 335 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 11 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -812,6 +812,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[BFI Film Academy](https://www.bfi.org.uk/bfi-film-academy)** - Free UK-wide filmmaking training programme for 16 to 25-year-olds (free).
 - **[Film Riot](https://www.youtube.com/@filmriot)** - Weekly tutorials on shooting, editing, and VFX for indie filmmakers (free).
+- **[Filmsite](https://www.filmsite.org/)** - Read scholarly film reviews, history milestones, and greatest-films lists (free).
 - **[Into Film](https://www.intofilm.org)** - Free UK film education charity with lesson plans and student filmmaking resources (free).
 - **[Lessons from the Screenplay](https://www.youtube.com/@LessonsfromtheScreenplay)** - Video essays breaking down screenwriting and film craft choices (free).
 - **[No Film School](https://nofilmschool.com)** - News, tutorials, and gear guides covering the craft of filmmaking (free).
