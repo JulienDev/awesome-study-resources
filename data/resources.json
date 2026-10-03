@@ -3813,5 +3813,12 @@
     "description": "Follow photography news, tutorials, and gear reviews (free, ad-free membership).",
     "section": "By Subject",
     "subsection": "Photography"
+  },
+  {
+    "name": "News Literacy Project",
+    "url": "https://newslit.org/",
+    "description": "Learn to evaluate misinformation and media bias through Checkology lessons (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
   }
 ]
