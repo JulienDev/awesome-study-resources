@@ -3834,5 +3834,12 @@
     "description": "Read Shakespeare's complete works and lesson plans (free).",
     "section": "By Subject",
     "subsection": "Theatre"
+  },
+  {
+    "name": "Dance Magazine",
+    "url": "https://www.dancemagazine.com/",
+    "description": "Read dance news, features, and career advice (free, paid subscription).",
+    "section": "By Subject",
+    "subsection": "Dance"
   }
 ]
