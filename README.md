@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-539-blue)
+![Resources](https://img.shields.io/badge/resources-540-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 108 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 330 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 331 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 11 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 9 |
@@ -727,6 +727,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[Anthropology News](https://www.anthropology-news.org)** - Free AAA magazine covering current anthropological research and teaching (free).
 - **[Discover Anthropology](https://discoveranthropology.org.uk/)** - Introduces anthropology as a field with study and career guidance (free).
+- **[Fieldsights](https://culanth.org/fieldsights)** - Read open-access essays and podcasts from working cultural anthropologists (free).
 - **[IB Social and Cultural Anthropology](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/social-and-cultural-anthropology/)** - Outlines the official IB syllabus and assessment structure (free).
 - **[Knowt](https://knowt.com/exams/IB/IB-Social-and-cultural-anthropology-(SL))** - Offers student-written notes and flashcards by unit (free).
 - **[LibreTexts Cultural Anthropology](https://socialsci.libretexts.org/Bookshelves/Anthropology/Cultural_Anthropology)** - Free peer-reviewed open-access cultural anthropology textbooks and readings (free).

@@ -3771,5 +3771,12 @@
     "description": "Read independent analysis of health and social care policy in England (free).",
     "section": "By Subject",
     "subsection": "Health and Social Care"
+  },
+  {
+    "name": "Fieldsights",
+    "url": "https://culanth.org/fieldsights",
+    "description": "Read open-access essays and podcasts from working cultural anthropologists (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
   }
 ]
