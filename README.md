@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-553-blue)
+![Resources](https://img.shields.io/badge/resources-554-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -40,7 +40,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 10 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
-| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 9 |
+| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 10 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 18 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 9 |
@@ -1033,6 +1033,7 @@ Graph, compute, and sketch ideas.
 - **[Excalidraw](https://excalidraw.com)** - Free, open-source hand-drawn-style diagrams (free).
 - **[GeoGebra](https://www.geogebra.org)** - Free, open geometry, algebra, and calculus tools (free).
 - **[Mathigon](https://mathigon.org)** - Explore interactive math lessons and manipulatives in the browser (free).
+- **[Mermaid](https://mermaid.js.org/)** - Draw flowcharts and diagrams from text, open source (free).
 - **[MolView](https://molview.org/)** - Explore molecules in 3D and build reaction diagrams in the browser (free).
 - **[PhET Simulations](https://phet.colorado.edu)** - Free interactive simulations for exploring physics, chemistry, biology, and math (free).
 - **[Tinkercad](https://www.tinkercad.com)** - Design and simulate 3D models, circuits, and code in the browser (freemium).

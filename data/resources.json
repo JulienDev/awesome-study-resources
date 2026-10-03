@@ -3869,5 +3869,12 @@
     "description": "Read international guidance on generative AI use in education (free).",
     "section": "AI & Academic Integrity",
     "subsection": null
+  },
+  {
+    "name": "Mermaid",
+    "url": "https://mermaid.js.org/",
+    "description": "Draw flowcharts and diagrams from text, open source (free).",
+    "section": "Diagramming & STEM Tools",
+    "subsection": null
   }
 ]
