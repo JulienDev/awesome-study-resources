@@ -3974,5 +3974,12 @@
     "description": "Revise IGCSE and A Level business with video lessons (freemium).",
     "section": "By Subject",
     "subsection": "Business Studies"
+  },
+  {
+    "name": "Whitaker's Words",
+    "url": "https://latin-words.com",
+    "description": "Look up Latin words and see their forms and meanings (free).",
+    "section": "By Subject",
+    "subsection": "Latin"
   }
 ]
