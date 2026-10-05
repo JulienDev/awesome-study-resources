@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-566-blue)
+![Resources](https://img.shields.io/badge/resources-567-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 110 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 348 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 349 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 12 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 10 |
@@ -454,6 +454,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[IGCSE Accounts](https://www.igcseaccounts.com)** - Free Cambridge IGCSE Accounting past paper questions, mark schemes, and revision notes (free).
 - **[Khan Academy Accounting and Financial Statements](https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-statement)** - Free lessons on financial statements and core accounting concepts (free).
 - **[My Accounting Course](https://www.myaccountingcourse.com/)** - Free accounting dictionary, tutorials, and quizzes covering core concepts (freemium).
+- **[OpenStax Principles of Accounting](https://openstax.org/details/books/principles-financial-accounting)** - Read a full financial accounting textbook online (free).
 - **[Save My Exams](https://www.savemyexams.com/subjects/accounting/)** - Revision notes, topic questions, and past papers for IGCSE and A-Level Accounting (freemium).
 
 </details>

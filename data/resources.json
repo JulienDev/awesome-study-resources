@@ -3960,5 +3960,12 @@
     "description": "Revise economics concepts with clear articles and diagrams (free).",
     "section": "By Subject",
     "subsection": "Economics"
+  },
+  {
+    "name": "OpenStax Principles of Accounting",
+    "url": "https://openstax.org/details/books/principles-financial-accounting",
+    "description": "Read a full financial accounting textbook online (free).",
+    "section": "By Subject",
+    "subsection": "Accounting"
   }
 ]
