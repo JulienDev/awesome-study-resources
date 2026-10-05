@@ -3918,5 +3918,12 @@
     "description": "Learn statistics with plain-language tutorials and worked examples (free).",
     "section": "By Subject",
     "subsection": "Statistics"
+  },
+  {
+    "name": "NRICH",
+    "url": "https://nrich.maths.org",
+    "description": "Stretch problem-solving with Cambridge's rich maths problems (free).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
   }
 ]
