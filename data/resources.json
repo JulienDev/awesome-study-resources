@@ -3946,5 +3946,12 @@
     "description": "Practise biology topics with worksheets, labs, and study guides (free).",
     "section": "By Subject",
     "subsection": "Biology"
+  },
+  {
+    "name": "CS50x",
+    "url": "https://cs50.harvard.edu/x/",
+    "description": "Learn computer science foundations in Harvard's course (free, certificate paid).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
   }
 ]
