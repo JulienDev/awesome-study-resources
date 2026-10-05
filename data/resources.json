@@ -3904,5 +3904,12 @@
     "description": "Turn Obsidian notes into spaced-repetition flashcards on desktop and mobile (freemium).",
     "section": "Flashcards & Spaced Repetition",
     "subsection": null
+  },
+  {
+    "name": "Mathigon",
+    "url": "https://mathigon.org",
+    "description": "Explore maths through interactive courses and the Polypad tool (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
   }
 ]

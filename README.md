@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-558-blue)
+![Resources](https://img.shields.io/badge/resources-559-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 110 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 340 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 341 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 12 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 10 |
@@ -277,6 +277,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Corbettmaths](https://corbettmaths.com/)** - Free Maths questions, worksheets, and videos by GCSE and A-Level topic (free).
 - **[Desmos](https://www.desmos.com)** - Free graphing and geometry calculators for exploring functions (free).
 - **[Khan Academy](https://www.khanacademy.org/math)** - Free video lessons and practice exercises across all math levels (free).
+- **[Mathigon](https://mathigon.org)** - Explore maths through interactive courses and the Polypad tool (free).
 - **[MathsGenie](https://mathsgenie.co.uk/)** - Free GCSE and A-Level Maths videos, worksheets, and past papers by topic (freemium).
 - **[Paul's Online Math Notes](https://tutorial.math.lamar.edu)** - Free, thorough notes and examples from algebra to differential equations (free).
 
