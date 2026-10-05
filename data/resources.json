@@ -4002,5 +4002,12 @@
     "description": "Read in-depth articles on poverty, conflict, and global affairs (free).",
     "section": "By Subject",
     "subsection": "Global Politics"
+  },
+  {
+    "name": "Legal Information Institute",
+    "url": "https://www.law.cornell.edu",
+    "description": "Read US law and the Wex legal encyclopedia (free).",
+    "section": "By Subject",
+    "subsection": "Law"
   }
 ]
