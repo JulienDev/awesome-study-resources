@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-569-blue)
+![Resources](https://img.shields.io/badge/resources-570-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 110 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 351 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 352 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 12 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 10 |
@@ -536,6 +536,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[1000-Word Philosophy](https://1000wordphilosophy.com)** - Free, short introductory essays on philosophical concepts and thinkers (free).
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory philosophy video series (free).
+- **[History of Philosophy without any gaps](https://historyofphilosophy.net)** - Follow philosophy's history through a long-running podcast (free).
 - **[Internet Encyclopedia of Philosophy](https://iep.utm.edu/)** - Free, peer-reviewed articles on philosophical topics and thinkers (free).
 - **[Philosophize This!](https://www.philosophizethis.org/)** - Free podcast walking through the history of philosophy for beginners (free).
 - **[Philosophy Now](https://philosophynow.org)** - Magazine covering philosophical ideas and debates, four articles free per month (freemium).

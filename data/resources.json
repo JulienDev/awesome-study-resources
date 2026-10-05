@@ -3981,5 +3981,12 @@
     "description": "Look up Latin words and see their forms and meanings (free).",
     "section": "By Subject",
     "subsection": "Latin"
+  },
+  {
+    "name": "History of Philosophy without any gaps",
+    "url": "https://historyofphilosophy.net",
+    "description": "Follow philosophy's history through a long-running podcast (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
   }
 ]
