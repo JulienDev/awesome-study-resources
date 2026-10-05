@@ -3925,5 +3925,12 @@
     "description": "Stretch problem-solving with Cambridge's rich maths problems (free).",
     "section": "By Subject",
     "subsection": "Further Mathematics"
+  },
+  {
+    "name": "Physics LibreTexts",
+    "url": "https://phys.libretexts.org",
+    "description": "Read open-access physics textbooks from mechanics to quantum (free).",
+    "section": "By Subject",
+    "subsection": "Physics"
   }
 ]
