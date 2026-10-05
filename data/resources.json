@@ -3939,5 +3939,12 @@
     "description": "Watch interactive 3D animations of reaction mechanisms and structures (free).",
     "section": "By Subject",
     "subsection": "Chemistry"
+  },
+  {
+    "name": "The Biology Corner",
+    "url": "https://www.biologycorner.com",
+    "description": "Practise biology topics with worksheets, labs, and study guides (free).",
+    "section": "By Subject",
+    "subsection": "Biology"
   }
 ]
