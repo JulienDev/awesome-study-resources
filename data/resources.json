@@ -3953,5 +3953,12 @@
     "description": "Learn computer science foundations in Harvard's course (free, certificate paid).",
     "section": "By Subject",
     "subsection": "Computer Science"
+  },
+  {
+    "name": "Economics Online",
+    "url": "https://www.economicsonline.co.uk",
+    "description": "Revise economics concepts with clear articles and diagrams (free).",
+    "section": "By Subject",
+    "subsection": "Economics"
   }
 ]

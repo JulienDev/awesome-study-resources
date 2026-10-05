@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-565-blue)
+![Resources](https://img.shields.io/badge/resources-566-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 110 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 347 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 348 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 12 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 10 |
@@ -432,6 +432,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[EconEdLink](https://econedlink.org/)** - Free lessons, videos, and interactive tools on economics and personal finance (free).
 - **[Economics Academy](https://economicsacademy.co.uk/)** - Free A-Level economics notes, flashcards, practice questions, and past papers (free).
 - **[Economics Help](https://www.economicshelp.org)** - Revision notes and blog posts covering micro and macroeconomics topics (freemium).
+- **[Economics Online](https://www.economicsonline.co.uk)** - Revise economics concepts with clear articles and diagrams (free).
 - **[EconplusDal](https://www.youtube.com/@EconplusDal)** - Exam-focused economics tutorials for A-Level and IB (free).
 - **[Khan Academy](https://www.khanacademy.org/economics-finance-domain)** - Free video lessons and practice exercises on micro and macroeconomics (free).
 - **[Marginal Revolution University](https://mru.org)** - Free economics videos from working economists (free).
