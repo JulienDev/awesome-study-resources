@@ -4030,5 +4030,12 @@
     "description": "Revise A Level PE topics with free notes (free, paid app).",
     "section": "By Subject",
     "subsection": "Physical Education"
+  },
+  {
+    "name": "Science for Sport",
+    "url": "https://www.scienceforsport.com",
+    "description": "Study sports science through articles and courses (freemium).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
   }
 ]
