@@ -4009,5 +4009,12 @@
     "description": "Read US law and the Wex legal encyclopedia (free).",
     "section": "By Subject",
     "subsection": "Law"
+  },
+  {
+    "name": "Our World in Data",
+    "url": "https://ourworldindata.org",
+    "description": "Explore interactive charts on population, climate, and development (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
   }
 ]

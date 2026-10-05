@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-573-blue)
+![Resources](https://img.shields.io/badge/resources-574-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 110 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 355 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 356 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 12 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 10 |
@@ -645,6 +645,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Geography All The Way](https://www.geographyalltheway.com/)** - IB DP Geography case studies, exam prep, and geographic skills (freemium).
 - **[Internet Geography](https://www.internetgeography.net)** - Free notes and case studies for GCSE geography (freemium).
 - **[National Geographic Education](https://www.nationalgeographic.org/education/)** - Free geography lesson plans, maps, and interactive classroom resources (free).
+- **[Our World in Data](https://ourworldindata.org)** - Explore interactive charts on population, climate, and development (free).
 - **[Royal Geographical Society](https://www.rgs.org/schools/resources-for-schools)** - Free case studies, fieldwork guidance, and careers resources for geography students (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive geography revision (freemium).
 - **[The Geography Hub](https://learngeographyonline.com)** - Free GCSE geography past papers, explainer articles, and a glossary (free).
