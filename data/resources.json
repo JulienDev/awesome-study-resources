@@ -3988,5 +3988,12 @@
     "description": "Follow philosophy's history through a long-running podcast (free).",
     "section": "By Subject",
     "subsection": "Philosophy"
+  },
+  {
+    "name": "ReligionFacts",
+    "url": "https://religionfacts.com",
+    "description": "Compare world religions with neutral overviews and glossaries (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
   }
 ]
