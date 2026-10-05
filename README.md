@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-574-blue)
+![Resources](https://img.shields.io/badge/resources-575-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 110 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 356 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 357 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 12 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 10 |
@@ -718,6 +718,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Save My Exams](https://www.savemyexams.com/gcse/food-and-nutrition/)** - Revision notes, exam questions, flashcards, and past papers for GCSE Food & Nutrition (freemium).
 - **[Seneca Learning](https://senecalearning.com/en-gb/blog/gcse-food-preparation-nutrition-revision/)** - Delivers interactive GCSE food and nutrition revision with spaced repetition (freemium).
 - **[The Nutrition Source](https://nutritionsource.hsph.harvard.edu)** - Harvard's free, evidence-based guide to nutrition science and healthy eating (free).
+- **[USDA FoodData Central](https://fdc.nal.usda.gov)** - Look up the nutrient content of thousands of foods (free).
 
 </details>
 

@@ -4016,5 +4016,12 @@
     "description": "Explore interactive charts on population, climate, and development (free).",
     "section": "By Subject",
     "subsection": "Geography"
+  },
+  {
+    "name": "USDA FoodData Central",
+    "url": "https://fdc.nal.usda.gov",
+    "description": "Look up the nutrient content of thousands of foods (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
   }
 ]
