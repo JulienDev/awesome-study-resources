@@ -3967,5 +3967,12 @@
     "description": "Read a full financial accounting textbook online (free).",
     "section": "By Subject",
     "subsection": "Accounting"
+  },
+  {
+    "name": "BizEdMadeSimple",
+    "url": "https://bizedmadesimple.com/",
+    "description": "Revise IGCSE and A Level business with video lessons (freemium).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
   }
 ]
