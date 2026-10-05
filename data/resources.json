@@ -3932,5 +3932,12 @@
     "description": "Read open-access physics textbooks from mechanics to quantum (free).",
     "section": "By Subject",
     "subsection": "Physics"
+  },
+  {
+    "name": "ChemTube3D",
+    "url": "https://www.chemtube3d.com",
+    "description": "Watch interactive 3D animations of reaction mechanisms and structures (free).",
+    "section": "By Subject",
+    "subsection": "Chemistry"
   }
 ]
